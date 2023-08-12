@@ -1,0 +1,57 @@
+
+
+table {
+    margin-left: 20%;
+}
+
+th h1 {
+    background-color: yellow;
+    text-align: center;
+    margin-bottom: 0%;
+    padding: 5px;
+}
+
+.width40 {
+    width: 40px;
+    text-align: center;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.lightblue{
+    background-color: lightblue;
+}
+
+.fuchsia {
+    background-color: fuchsia;
+}
+
+.aqua {
+    background-color: aqua;
+}
+
+.olive {
+    background-color: olive;
+}
+
+.lightyellow {
+    background-attachment: lightyellow;
+}
+
+.lightgreen {
+    background-color: lightgreen;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.white {
+    background-color: white;
+}
