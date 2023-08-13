@@ -1,7 +1,23 @@
 
+.intro {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    color: rgb(110, 77, 4);
+    font-size: xx-large;
+    font-weight: bold;
+    border-bottom: 3px dotted red;
+    border-right: 3px dotted red;
+    padding: 5px;
+}
+
+.Author {
+    color: rgb(0, 255, 55);
+}
 
 table {
-    margin-left: 20%;
+    margin-left: 28%;
+    margin-top: 8%;
 }
 
 th h1 {
